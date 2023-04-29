@@ -1,13 +1,26 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package tarea12023;
 
-/**
- *
- * @author Ingrid
- */
-public class Producto {
+abstract class Producto {
+    private int serie;
+    private int tipo;
     
+    public Producto(int i){
+        this.serie = i;
+    }
+    
+    /*
+    public Producto ComprarProducto(int i, int tipo){
+        
+        return producto;
+    }
+    */
+    public int getSerie(){
+        return serie;
+    }
+    
+    public int getTipo(){
+        return tipo;
+    }
+    public abstract String sabor();
+        
 }
