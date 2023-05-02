@@ -12,10 +12,13 @@ cuanta plata le devolvió expendedor
 
 • Si el producto es más barato que el valor de la Moneda debe devolver la diferencia en monedas de $100 
 como vuelto.
+
 • Si no hay productos, devuelve la misma Moneda como vuelto. Debe utilizar una excepción personalizada 
 (NoHayProductoException)
+
 • Si se quiere comprar un producto por un valor inferior al precio, solo devuelve la misma Moneda como 
 vuelto. Debe utilizar una excepción personalizada (PagoInsuficienteException)
+
 • Si se quiere comprar Bebidas sin dinero (moneda null) no retorna vuelto, ni producto. Debe utilizar una 
 excepción personalizada (PagoIncorrectoException)
 
