@@ -1,6 +1,13 @@
 # Tarea 1 
 503212-1 Programación II (S1-2023)
 
+
+Integrantes:
+- José Alarcón R.
+- Ingrid Triviño S.
+
+
+
 Enunciado:
 
 El trabajo consiste en modificar el código del expendedor de bebidas que ha hecho en PA3P. En particular, 
@@ -22,11 +29,5 @@ vuelto. Debe utilizar una excepción personalizada (PagoInsuficienteException)
 • Si se quiere comprar Bebidas sin dinero (moneda null) no retorna vuelto, ni producto. Debe utilizar una 
 excepción personalizada (PagoIncorrectoException)
 
-
-
-
-Integrantes:
-- José Alarcón R.
-- Ingrid Triviño S.
 
 ![UML tarea1](https://user-images.githubusercontent.com/131918653/235595911-3d6eaa22-b802-42f3-9d50-2e188a22bf71.PNG)
