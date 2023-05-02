@@ -28,3 +28,5 @@ excepción personalizada (PagoIncorrectoException)
 Integrantes:
 - José Alarcón R.
 - Ingrid Triviño S.
+
+![UML tarea1](https://user-images.githubusercontent.com/131918653/235595911-3d6eaa22-b802-42f3-9d50-2e188a22bf71.PNG)
