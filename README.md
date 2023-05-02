@@ -2,6 +2,7 @@
 503212-1 Programación II (S1-2023)
 
 Enunciado:
+
 El trabajo consiste en modificar el código del expendedor de bebidas que ha hecho en PA3P. En particular, 
 además de bebidas, se desea vender dulces. El proyecto sigue con una entrada para monedas, un selector 
 numérico para elegir el tipo de producto y un retorno de producto. Cada vez que se le ingresa una moneda y un 
